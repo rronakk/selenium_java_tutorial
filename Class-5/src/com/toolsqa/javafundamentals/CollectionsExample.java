@@ -38,6 +38,8 @@ public class CollectionsExample {
 		*/
 		
 		System.out.println("SizeOf HashSet: " + hs.size()+ " SizeOf Elements: "+anchorElements.size());
+		System.out.println(anchorElements);
+		System.out.println(hs);
 	}
 
 }

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2015-06-07T18:13:08Z" finished-at="2015-06-07T18:13:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2015-06-07T18:13:08Z" finished-at="2015-06-07T18:13:08Z">
+      <class name="com.toolsqa.framework.tests.day2.DataProviderExample">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.toolsqa.framework.tests.day2.DataProviderExample@71c7db30]" name="test" duration-ms="16" started-at="2015-06-07T11:13:08Z" data-provider="dp" finished-at="2015-06-07T11:13:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sandeep]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.toolsqa.framework.tests.day2.DataProviderExample@71c7db30]" name="test" duration-ms="0" started-at="2015-06-07T11:13:08Z" data-provider="dp" finished-at="2015-06-07T11:13:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ronak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.toolsqa.framework.tests.day2.DataProviderExample@71c7db30]" name="test" duration-ms="0" started-at="2015-06-07T11:13:08Z" data-provider="dp" finished-at="2015-06-07T11:13:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[megha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.toolsqa.framework.tests.day2.DataProviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

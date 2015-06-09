@@ -1,0 +1,13 @@
+<suite name="CheckInTestSuite">
+	<test name="Grouping Test">
+		<groups>
+			<run>
+				<include name="functionality" />
+				<exclude name="performance" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.toolsqa.framework.tests.day2.Grouping" />
+		</classes>
+	</test>
+</suite>
